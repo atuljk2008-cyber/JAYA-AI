@@ -1,4 +1,4 @@
-# JAYA AI – Personalized Visual Desktop Assistant (WIP)
+# 🦾 JAYA AI – Personalized Visual Desktop Assistant (WIP)
 
 JAYA AI is a Python-based intelligent desktop assistant designed to provide a human-like interactive experience with voice communication, visual presence, and task automation.
 
@@ -17,16 +17,17 @@ JAYA AI is a Python-based intelligent desktop assistant designed to provide a hu
 - **OS Automation libraries**
 
 ## 📌 Project Status
-This project is currently in the early prototype and concept phase with ongoing development.  
-The repository documents the idea, architecture planning, and future roadmap.
+This project is currently in the early prototype and concept phase. The repository documents the idea, architecture planning, and future roadmap.
+> **Note:** Codebase and core components are currently maintained locally to ensure stability before release.
 
-> Codebase and core components are currently maintained locally.
+## 📍 Challenges Being Solved
+- 🎤 **Audio Interfacing:** Optimizing microphone sensitivity for multi-channel hardware.
+- 🖼️ **UI Transparency:** Implementing seamless desktop overlay using Chromakey techniques.
 
-## 📍 Future Improvements
-- Integration with external APIs
-- Advanced memory and personalization
-- Expanded automation commands
-- UI design enhancements
+## 💡 The Vision
+> "Action is the cure for self-doubt." 
+Building this while balancing B.Tech CSE at **Lovely Professional University (LPU)**. I believe in learning by doing and turning complex errors into functional solutions.
 
-# JAYA-AI
-JAYA AI is a Python-based visual assistant built to automate desktop tasks. It features a responsive GUI, voice intelligence, and a contextual memory system for reminders. Currently optimizing microphone sensitivity and UI transparency. Developed while balancing B.Tech at LPU, inspired by the belief that "Action is the cure for self-doubt.
+---
+**Developer:** Atul Kumar  
+**Interest:** AI Automation, Content Writing, SMM 🚀
